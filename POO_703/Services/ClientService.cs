@@ -72,7 +72,7 @@ namespace POO_703.Services
             Console.WriteLine("Telefono");
             string phone = Console.ReadLine();
 
-            listClients.Add(new Clients(id,name, lastname, city, location, phone));
+            listClients.Add(new Clients(id,name, lastname, phone, location, city));
 
             Console.Clear();
             ListClients();
@@ -84,7 +84,7 @@ namespace POO_703.Services
         {
             foreach(Clients cliente in listClients)
             {
-                Console.Write(cliente.ToString());
+                Console.Write(cliente);
             }
         }
 
@@ -119,7 +119,18 @@ namespace POO_703.Services
 
         public void RemoverClient()
         {
-
+            Console.WriteLine("Ingrese el id: ");
+            int id = int.Parse(Console.ReadLine());
+            foreach (var clients in listClients)
+            {
+                if (clients.Id == id)
+                {
+                    listClients.Remove(clients);
+                    Console.WriteLine("Cliente eliminado exitosamente");
+                    break;
+                }
+                else { Console.WriteLine("Cliente no encontrado"); }
+            }
         }
     }
 }

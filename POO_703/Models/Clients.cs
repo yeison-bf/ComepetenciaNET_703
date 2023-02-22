@@ -31,23 +31,13 @@ namespace POO_703.Models
         }
 
 
-        public string Imprimir()
-        {
-            return($"Nombre: {Name}\n" +
-                $"City: {City}\n" +
-                $"Apellidos: {LastName}\n" +
-                $"Dirección: {Location}\n" +
-                $"Telefono: {PhoneNumber}");
-        }
-
-
         public override string ToString()
         {
             return string.Format($"Nombre: {Name}\n" +
-                $"City: {City}\n" +
                 $"Apellidos: {LastName}\n" +
+                $"City: {City}\n" +
                 $"Dirección: {Location}\n" +
-                $"Telefono: {PhoneNumber}");
+                $"Telefono: {PhoneNumber}\n");
         }
 
 
