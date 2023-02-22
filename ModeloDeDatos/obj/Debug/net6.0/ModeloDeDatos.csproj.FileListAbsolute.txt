@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\bin\Debug\net6.0\ModeloDeDatos.deps.json
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\bin\Debug\net6.0\ModeloDeDatos.dll
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\bin\Debug\net6.0\ModeloDeDatos.pdb
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.dll
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\refint\ModeloDeDatos.dll
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ModeloDeDatos.pdb
+C:\Users\usuario\source\repos\POO_703\ModeloDeDatos\obj\Debug\net6.0\ref\ModeloDeDatos.dll
