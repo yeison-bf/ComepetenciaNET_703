@@ -6,11 +6,10 @@ C:\Users\usuario\source\repos\POO_703\POO_703\obj\Debug\POO_703.csproj.Suggested
 C:\Users\usuario\source\repos\POO_703\POO_703\obj\Debug\POO_703.csproj.CoreCompileInputs.cache
 C:\Users\usuario\source\repos\POO_703\POO_703\obj\Debug\POO_703.exe
 C:\Users\usuario\source\repos\POO_703\POO_703\obj\Debug\POO_703.pdb
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\bin\Debug\POO_703.exe.config
 C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\bin\Debug\POO_703.exe
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\bin\Debug\POO_703.pdb
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.csproj.AssemblyReference.cache
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.csproj.SuggestedBindingRedirects.cache
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.exe
-C:\Users\usuario\Source\Repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.pdb
+C:\Users\usuario\source\repos\ComepetenciaNET_703\POO_703\bin\Debug\POO_703.exe.config
+C:\Users\usuario\source\repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.exe
+C:\Users\usuario\source\repos\ComepetenciaNET_703\POO_703\obj\Debug\POO_703.pdb

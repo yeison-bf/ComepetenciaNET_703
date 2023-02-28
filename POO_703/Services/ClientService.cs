@@ -52,30 +52,17 @@ namespace POO_703.Services
 
         public void RegisterClient()
         {
-            Console.WriteLine("Información del cliente\n");
+            Console.WriteLine("¿Desea llenar automaticamente los registros? 1. SI / 2. NO");
+            int opcRegister = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Identificación");
-            int id = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Nombre");
-            string name = Console.ReadLine();
-
-            Console.WriteLine("Apellidos");
-            string lastname = Console.ReadLine();
-
-            Console.WriteLine("Ciudad");
-            string city = Console.ReadLine();
-
-            Console.WriteLine("Localidad");
-            string location = Console.ReadLine();
-
-            Console.WriteLine("Telefono");
-            string phone = Console.ReadLine();
-
-            listClients.Add(new Clients(id,name, lastname, phone, location, city));
-
+            if(opcRegister == 1)
+            {
+                seeders();
+            }
+            {
+               
+            }
             Console.Clear();
-            ListClients();
         }
 
 
@@ -132,5 +119,20 @@ namespace POO_703.Services
                 else { Console.WriteLine("Cliente no encontrado"); }
             }
         }
+    
+
+
+        public void seeders()
+        {
+            listClients.Add(new Clients(1051890890, "Manuela", "Hoyos", "3211231234", "Br Aranjuez", "Medellin"));
+            listClients.Add(new Clients(1051890891, "Katherin", "Hoyos", "31073838", "Br Aranjuez", "Medellin"));
+            listClients.Add(new Clients(1051890892, "Kevi¿yn", "Hoyos", "316878939", "Br Aranjuez", "Medellin"));
+            listClients.Add(new Clients(1051890893, "Jefferson", "Hoyos", "3211231234", "Br Aranjuez", "Medellin"));
+            listClients.Add(new Clients(1051890894, "Camilo", "Hoyos", "3228939389", "Br Aranjuez", "Medellin"));
+            listClients.Add(new Clients(1051890895, "Daniel", "Hoyos", "3102347876", "Br Aranjuez", "Medellin"));
+            listClients.Add(new Clients(1051890896, "Cristian", "Hoyos", "3211231234", "Br Aranjuez", "Medellin"));
+        }
+    
+    
     }
 }
